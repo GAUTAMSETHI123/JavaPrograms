@@ -16,3 +16,5 @@ class Inter implements Interface2, Interface3{
         inter.print();
     }
 }
+
+// inheritance first and then interface----this is the order.
