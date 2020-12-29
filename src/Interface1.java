@@ -22,3 +22,7 @@ class Tester1 implements Interface1{
        // }
     }
 }
+
+
+// class can implements more than one interface
+// interface can extends more than one interface
