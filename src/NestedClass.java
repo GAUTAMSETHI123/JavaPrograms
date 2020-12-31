@@ -10,7 +10,7 @@ public class NestedClass {
     static int y =13;
 
     static class NestedClass2{
-        void display(){
+           void display(){
             System.out.println(y);
         }
     }
